@@ -1,4 +1,6 @@
 # Ruedata_acces_code
+  api desarrollada en flask con un microservicio que se encarga de:
+  
   Un método de seguridad habitual en la banca electrónica consiste en pedir al usuario tres caracteres aleatorios 
   de un código de acceso. Por ejemplo, si el código de acceso era 531278, pueden pedir los caracteres 2o, 3o y 5o; la respuesta esperada sería: 317.
 # Descarga de repositorio
